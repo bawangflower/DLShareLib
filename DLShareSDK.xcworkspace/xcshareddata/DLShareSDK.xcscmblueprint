@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D074F5E37AD37CDFACF5235446FE84EC43AAE83D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D074F5E37AD37CDFACF5235446FE84EC43AAE83D" : 0,
+    "4E5596A6BA1AA00B5817E7FB51A676D3C0068538" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "36F39047-A8D7-4F21-8A1E-E682A7566A29",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D074F5E37AD37CDFACF5235446FE84EC43AAE83D" : "DLShareSDK\/",
+    "4E5596A6BA1AA00B5817E7FB51A676D3C0068538" : "DLShareSDK\/DLShareSDK\/DLShareSDK\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DLShareSDK",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DLShareSDK.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bawangflower\/DLShareLib",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E5596A6BA1AA00B5817E7FB51A676D3C0068538"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:bawangflower\/DLShareSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D074F5E37AD37CDFACF5235446FE84EC43AAE83D"
+    }
+  ]
+}
